@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"composite"},{"l":"Factory"},{"l":"IComparator"},{"l":"MapReduce"},{"l":"Observer"},{"l":"Proxy"},{"l":"Visitor"}];updateSearchResults();
